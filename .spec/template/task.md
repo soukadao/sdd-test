@@ -1,6 +1,6 @@
 ---
 format:
-    date: 'YYYY年MM月DD日'
+    date: '+%Y年%m月%d日'
 status: Backlog | In-Progress | Done
 ---
 
@@ -10,7 +10,7 @@ status: Backlog | In-Progress | Done
 <!--
 Example
 
-- **phase-name**: phase-00001, phase-00002, ...
+- **phase-number**: phase-00001, phase-00002, ...
 - **dir-name**: 001-feature-name, 002-feature-name, ...
 -->
 
